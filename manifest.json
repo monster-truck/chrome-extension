@@ -6,11 +6,11 @@
   "permissions": [
     "contextMenus"
   ],
-  "icons": {
-    "16": "icon-bitty.png",
-    "48": "icon-small.png",
-    "128": "icon-large.png"
-  },
+  // "icons": {
+  //   "16": "icon-bitty.png",
+  //   "48": "icon-small.png",
+  //   "128": "icon-large.png"
+  // },
   "content_scripts": [
     {
       "matches": ["https://*/*"],
